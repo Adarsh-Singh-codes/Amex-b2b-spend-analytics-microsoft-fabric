@@ -1,0 +1,21 @@
+company_name,industry,size_segment,country,region,company_id
+Tata Motors,Manufacturing,Large,India,APAC,1
+Infosys,Technology,Large,India,APAC,2
+Reliance Retail,Retail,Large,India,APAC,3
+HDFC Bank,BFSI,Large,India,APAC,4
+Flipkart,Retail,Large,India,APAC,5
+JP Morgan India,BFSI,Large,India,APAC,6
+Amazon India,Retail,Large,India,APAC,7
+Wipro,Technology,Large,India,APAC,8
+Siemens India,Manufacturing,Large,India,APAC,9
+Pfizer India,Healthcare,Mid,India,APAC,10
+Google India,Technology,Large,India,APAC,11
+Accenture India,Technology,Large,India,APAC,12
+ICICI Prudential,BFSI,Mid,India,APAC,13
+Bosch India,Manufacturing,Large,India,APAC,14
+Lenskart,Retail,Mid,India,APAC,15
+Mahindra Logistics,Logistics,Mid,India,APAC,16
+Paytm,Fintech,Mid,India,APAC,17
+Byju’s,EdTech,Mid,India,APAC,18
+Swiggy,Consumer Tech,Mid,India,APAC,19
+Zomato,Consumer Tech,Mid,India,APAC,20
