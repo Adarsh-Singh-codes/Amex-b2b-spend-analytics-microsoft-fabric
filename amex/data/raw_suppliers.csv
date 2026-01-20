@@ -1,0 +1,23 @@
+supplier_name,industry,risk_rating,contract_flag,supplier_id
+MakeMyTrip,Travel,Low,Yes,1
+Uber for Business,Travel,Medium,Yes,2
+Indigo Airlines,Travel,Medium,Yes,3
+Amazon Business,Operations,Low,Yes,4
+Flipkart Wholesale,Operations,Low,Yes,5
+Microsoft Azure,SaaS,Low,Yes,6
+Google Cloud,SaaS,Low,Yes,7
+AWS,SaaS,Low,Yes,8
+SAP Concur,SaaS,Low,Yes,9
+Dell India,IT Hardware,Low,Yes,10
+HP Enterprise,IT Hardware,Low,Yes,11
+Lenovo India,IT Hardware,Low,Yes,12
+DHL Express,Logistics,Medium,Yes,13
+Blue Dart,Logistics,Medium,Yes,14
+WeWork India,Operations,Medium,No,15
+Tata Communications,Telecom,Low,Yes,16
+Adobe India,SaaS,Low,Yes,17
+Zoho Corp,SaaS,Low,Yes,18
+Freshworks,SaaS,Low,Yes,19
+Local Travel Agency,Travel,High,No,20
+Small IT Vendor,IT Hardware,High,No,21
+Regional Courier,Logistics,High,No,22
